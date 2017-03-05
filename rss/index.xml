@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 05 Mar 2017 15:26:37 GMT</lastBuildDate><atom:link href="undefined/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[JavaエンジニアにScalaの話を聞いてみたい@ScalaMatsuri2017]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Sun, 05 Mar 2017 15:31:13 GMT</lastBuildDate><atom:link href="undefined/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[JavaエンジニアにScalaの話を聞いてみたい@ScalaMatsuri2017]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>せっかく座長やったんだったら内容をまとめてくれと <a href="https://twitter.com/seratch_ja">@seratch_ja</a> さんに言われたので、やってみました。</p>
@@ -177,7 +177,7 @@ macroが散乱するわけではなく、DSLはあくまで多様な演算子が
 学生という時間のある身だと、そんなの本読みゃ分かるわ！ってなる場合が、なんとなく行ったセッションでは発生しかねません。</p>
 </div>
 <div class="paragraph">
-<p>あ、<strong>参加するのを辞めとけとは微塵も思っていません！</strong>自分は結局去年参加したことが今回のプラスに繋がったし、学生には<strong>目的意識を持って楽しんで欲しい</strong>ということです。</p>
+<p>あ、<strong>参加するのを辞めとけとは微塵も思っていません！</strong>自分は結局去年参加したことが今回のプラスに繋がったし、学生には<strong>目的意識を持って楽しんで欲しい</strong>ということです。繰り返しますがScalaMaturiは短期間で多くのことを学べるいいカンファレンスです。</p>
 </div>
 <div class="paragraph">
 <p>以上</p>
